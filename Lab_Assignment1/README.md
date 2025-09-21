@@ -3,10 +3,10 @@ Thanks :D
 
 Group Members (*Team Lead):  
 *Haniya Naeem - 30062262  
-Maryam Mayeli -  
+Maryam Mayeli - 30266967  
 Paula Marie Honrade - 30288569  
-Qummar Mahmood -  
-Niki Mehri -  
+Qummar Mahmood - 30112120  
+Niki Mehri - 30119718  
 
 Assignment 1:
 
