@@ -1,1 +1,12 @@
+This is a sample README.md file. Please edit according to the instructions.
+Thanks :D
+
+Group Members (*Team Lead):
+*Haniya Naeem - 30062262
+Maryam Mayeli - 
+Paula Marie Honrade - 
+Qummar Mahmood - 
+Niki Mehri - 
+
+Assignment 1:
 
