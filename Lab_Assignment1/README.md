@@ -8,5 +8,5 @@ Paula Marie Honrade - 30288569
 Qummar Mahmood - 30112120  
 Niki Mehri - 30119718  
 
-Assignment 1: This assignement introduces the fundamental conceptes of python, such as different data types, methods, and libraries. It explores pandas dataframre, numpy arrays, and generating plots via matplotlib. It also convers 
+Assignment 1: This assignment introduces the fundamental concepts of python, such as different data types, methods, and libraries. It explores pandas dataframre, numpy arrays, and generating plots via matplotlib. It also convers 
 
