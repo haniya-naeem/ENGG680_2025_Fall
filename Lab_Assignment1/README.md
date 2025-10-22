@@ -8,5 +8,5 @@ Paula Marie Honrade - 30288569
 Qummar Mahmood - 30112120  
 Niki Mehri - 30119718  
 
-Assignment 1: This assignment introduces the fundamental concepts of python, such as different data types, methods, and libraries. It explores pandas dataframre, numpy arrays, and generating plots via matplotlib. These intial concepts provide the necessary framework to conduct a Least Squares Estimation analysis in python. The assignment also allows the group to learn about working collaboratively on code using Jupyter notebooks and GitHub.
+Assignment 1: This assignment introduces the fundamental concepts of python, such as different data types, methods, and libraries. It explores pandas dataframre, numpy arrays, and generating plots via matplotlib. It also provides an introdution to Least Squares Estimation.
 
